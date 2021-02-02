@@ -1,0 +1,26 @@
+{
+  "name": "ra-language-thai",
+  "version": "1.0.0",
+  "description": "Thai Message for React-Admin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siharatdecho/ra-language-thai.git"
+  },
+  "keywords": [
+    "react",
+    "react-admin",
+    "admin-on-rest",
+    "translation",
+    "thai"
+  ],
+  "author": "Rattanachote Kongson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siharatdecho/ra-language-thai/issues"
+  },
+  "homepage": "https://github.com/siharatdecho/ra-language-thai#readme"
+}
